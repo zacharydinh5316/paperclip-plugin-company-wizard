@@ -1,6 +1,6 @@
 {
   "name": "paperclip-plugin-company-wizard",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "description": "Bootstrap AI agent companies from modular templates. ",
   "main": "src/index.ts",
   "scripts": {
